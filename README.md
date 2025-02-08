@@ -60,4 +60,4 @@ BROWSER=firefox THREAD_COUNT=3 docker-compose up
 ```
 
 # Sample Report
-[Example ExtentReport] (/SampleExtent.html)
+[Example ExtentReport](/SampleExtent.html)
