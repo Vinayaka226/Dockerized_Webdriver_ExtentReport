@@ -1,0 +1,13 @@
+{
+  "name": "SampleName",
+  "email": "@sample.com",
+  "password": "samplePassword",
+  "day": "20",
+  "month": "July",
+  "year": "1980",
+  "address1": "Address One",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zip": "12345",
+  "mobile": "777666555444"
+}

@@ -1,0 +1,10 @@
+services:
+  automationExercise:
+    image: <username>/selenium
+    environment:
+      - BROWSER=${BROWSER}
+      - HUB_HOST=hub
+      - THREAD_COUNT=${THREAD_COUNT}
+      - TEST_SUITE=functional.xml
+    volumes:
+      - ./output/automationExercise/Extent/:/home/Dockerized_Webdriver_ExtentReport/extentReport
